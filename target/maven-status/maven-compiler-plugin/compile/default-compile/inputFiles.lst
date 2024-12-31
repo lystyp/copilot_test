@@ -1,0 +1,4 @@
+/workspaces/copilot_test/src/main/java/com/example/kafkaproducer/service/MessageProducer.java
+/workspaces/copilot_test/src/main/java/com/example/kafkaproducer/config/KafkaProducerConfig.java
+/workspaces/copilot_test/src/main/java/com/example/kafkaproducer/controller/MessageController.java
+/workspaces/copilot_test/src/main/java/com/example/kafkaproducer/KafkaProducerApplication.java
